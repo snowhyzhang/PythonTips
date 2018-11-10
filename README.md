@@ -27,3 +27,10 @@
 - 迭代排列或组合
 - 对不同容器中的元素进行迭代
 - 固定函数参数值
+
+### python_tips_5
+
+- 对list进行滑动取值
+- 对多个list做笛卡尔积
+- list的copy和deepcopy
+- dict与lambda表达式相结合
