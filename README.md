@@ -34,3 +34,10 @@
 - 对多个list做笛卡尔积
 - list的copy和deepcopy
 - dict与lambda表达式相结合
+
+### python_tips_6
+
+- 扁平化列表
+- 带可变状态的生成器
+- 对迭代器做切片
+
